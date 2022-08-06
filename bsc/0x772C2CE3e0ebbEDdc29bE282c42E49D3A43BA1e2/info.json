@@ -1,0 +1,11 @@
+{
+ "name": "Sparta",
+ "website": "https://www.sptlabs.io",
+ "description": "SPT is a governance token for a decentralized digital bank",
+ "explorer": "https://bscscan.com/token/0x772C2CE3e0ebbEDdc29bE282c42E49D3A43BA1e2",
+ "type": "BEP20",
+ "symbol": "SPT",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x772C2CE3e0ebbEDdc29bE282c42E49D3A43BA1e2"
+}
